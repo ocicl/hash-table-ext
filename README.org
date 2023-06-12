@@ -1,0 +1,10 @@
+* hash-table-ext
+
+Tiny extensions for common lisp hash-tables.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/hash-table-ext.git   |
+| commit  | {"messa  |
+| systems | hash-table-ext |
+|---------+-------------------------------------------|
+
