@@ -2,9 +2,8 @@
 
 Tiny extensions for common lisp hash-tables.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/hyotang666/hash-table-ext.git   |
-| commit  | {"messa  |
-| systems | hash-table-ext |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/hyotang666/hash-table-ext.git |
+| commit  | 5f5359a                                              |
+| systems | hash-table-ext                                       |
+|---------+------------------------------------------------------|
