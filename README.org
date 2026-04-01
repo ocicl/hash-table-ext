@@ -7,3 +7,4 @@ Tiny extensions for common lisp hash-tables.
 | commit  | 5f5359a                                              |
 | systems | hash-table-ext                                       |
 |---------+------------------------------------------------------|
+ 
